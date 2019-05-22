@@ -3,6 +3,7 @@
 This page is based on http://www.rci.rutgers.edu/~longhu/ChemJournalAbbreviation_Hu.htm
 For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib)
 
+
 ### Starts with A
 
 |ACH - Models in Chemistry                                  |ACH - ModelsA Chem.                                        |
@@ -156,6 +157,7 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Atmospheric Environment                                    |Atmos. Environ.                                            |
 |Atomization and Sprays                                     |Atomization Sprays                                         |
 |Australian Journal of Chemistry                            |Aust. J. Chem.                                             |
+
 ### Starts with B
 
 |Behavioural Pharmacology                                   |Behav. Pharmacol.                                          |
@@ -223,6 +225,7 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Bulletin of the Polish Academy of Sciences Chemistry       |Bull. Pol. Acad. Sci., Chem.                               |
 |Bulletin des Societes Chimiques Belges                     |Bull. Soc. Chim. Belg.                                     |
 |Bulletin de la Societe Chimique de France                  |Bull. Soc. Chim. Fr.                                       |
+
 ### Starts with C
 
 |Chemische Berichte                                         |Chem. Ber.                                                 |
@@ -381,6 +384,7 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Current Plant Science in Biotechnology and Agriculture     |Curr. Plant Sci. Biotechnol. Agric.                        |
 |Current Topics in Membranes                                |Curr. Top. Membr.                                          |
 |Current Topics in Medicinal Chemistry                      |Curr. Top. Med. Chem.                                      |
+
 ### Starts with D
 
 |Dalton Transactions                                        |Dalton Trans.                                              |
@@ -393,6 +397,7 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Drug Development Research                                  |Drug Dev. Res.                                             |
 |Drug Discovery Today                                       |Drug Discovery Today                                       |
 |Drying Technology                                          |Drying Technol.                                            |
+
 ### Starts with E
 
 |Earth and Planetary Science Letters                        |Earth. Planet. Sci. Lett.                                  |
@@ -444,6 +449,7 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Experimental Thermal and Fluid Science                     |Exp. Therm Fluid Sci.                                      |
 |Expert Opinion on Pharmacotherapy                          |Expert Opin. Pharmacother.                                 |
 |Exploration and Mining Geology                             |Explor. Min. Geol.                                         |
+
 ### Starts with F
 
 |Faraday Discussions                                        |Faraday Discuss.                                           |
@@ -482,6 +488,7 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Fundamental and Applied Toxicology                         |Fundam. Appl. Toxicol.                                     |
 |Fusion Engineering and Design                              |Fusion Eng. Des.                                           |
 |Fusion Technology                                          |Fusion Technol.                                            |
+
 ### Starts with G
 
 |Galvanotechnik                                             |Galvanotechnik                                             |
@@ -506,6 +513,7 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Glycoconjugate Journal                                     |Glycoconjugate J.                                          |
 |Greem Chemistry                                            |Green Chem.                                                |
 |Ground Water Monitoring and Remediation                    |Ground Water Monit. Rem.                                   |
+
 ### Starts with H
 
 |Handbook of Experimental Pharmacology                      |Handb. Exp. Pharmacol.                                     |
@@ -528,6 +536,7 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Hungarian Journal of Industrial Chemistry                  |Hung. J. Ind. Chem.                                        |
 |Hydrocarbon Processing, International Edition              |Hydrocarbon Process., Int. Ed.                             |
 |Hyperfine Interactions                                     |Hyperfine Interact.                                        |
+
 ### Starts with I
 
 |IEEE Sensors Journal                                       |IEEE Sens. J.                                              |
@@ -598,6 +607,7 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Ironmaking and Steelmaking                                 |Ironmaking Steelmaking                                     |
 |ISIJ International                                         |ISIJ Int.                                                  |
 |Israel Journal of Chemistry                                |Isr. J. Chem.                                              |
+
 ### Starts with J
 
 |Journal of Adhesion                                        |J. Adhes.                                                  |
@@ -909,6 +919,7 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |JSME International Journal Series A: Mechanics and Material Engineering |JSME Int J., Ser. A                           |
 |JSME International Journal Series B: Fluids and Thermal Engineering |JSME Int J., Ser. B                               |
 |JSME International Journal Series C: Mechanical Systems Machine Elements and Manufacturing |JSME Int J., Ser. C        |
+
 ### Starts with K
 
 |Kautschuk Gummi Kunststoffe                                |Kautsch. Gummi Kunstst.                                    |
@@ -920,6 +931,7 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Koordinatsionnaya Khimiya                                  |Koord. Khim.                                               |
 |Korean Journal of Chemical Engineering                     |Korean J. Chem. Eng.                                       |
 |Kovove Materialy Metallic Materials                        |Kovove Mater.                                              |
+
 ### Starts with L
 
 |Laboratory Automation and Information Management           |Lab. Autom. Inf. Manage.                                   |
@@ -935,6 +947,7 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Liquid Crystals                                            |Liq. Cryst.                                                |
 |Lubrication Engineering                                    |Lubr. Eng.                                                 |
 |Lubrication Science                                        |Lubr. Sci.                                                 |
+
 ### Starts with M
 
 |Macromolecular Chemistry and Physics                       |Macromol. Chem. Phys.                                      |
@@ -1033,6 +1046,7 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Monatshefte fur Chemie                                     |Monatsh. Chem.                                             |
 |MRS Bulletin                                               |MRS Bull.                                                  |
 |MRS Internet Journal of Nitride Semiconductor Research     |MRS Internet J. Nitride Semicond. Res.                     |
+
 ### Starts with N
 
 |News Chemical and Engineering News                         |Chem. Eng.                                                 |
@@ -1081,6 +1095,7 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Nuovo Cimento della Societa Italiana di Fisica B           |Nuovo Cimento Soc. Ital. Fis., B                           |
 |Nuovo Cimento della Societa Italiana di Fisica C           |Nuovo Cimento Soc. Ital. Fis., C                           |
 |Nuovo Cimento della Societa Italiana di Fisica D           |Nuovo Cimento Soc. Ital. Fis., D                           |
+
 ### Starts with O
 
 |Oil and Gas Journal                                        |Oil Gas J.                                                 |
@@ -1103,6 +1118,7 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Origins of Life and Evolution of the Biosphere             |Origins Life Evol. Biosphere                               |
 |Oxidation of Metals                                        |Oxid. Met.                                                 |
 |Ozone Science and Engineering                              |Ozone Sci. Eng.                                            |
+
 ### Starts with P
 
 |Particle and Particle Systems Characterization             |Part. Part. Syst. Char.                                    |
@@ -1228,11 +1244,13 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Przemysl Chemiczny                                         |Przem. Chem.                                               |
 |Pure and Applied Chemistry                                 |Pure Appl. Chem.                                           |
 |Physics-Uspekhi                                            |Phys.-Uspekhi                                              |
+
 ### Starts with Q
 
 |Quantitative Structure-Activity Relationships              |Quant. Struct.-Act. Relat.                                 |
 |Quimica Analitica                                          |Quim. Anal.                                                |
 |Quimica Nova                                               |Quim. Nova                                                 |
+
 ### Starts with R
 
 |Radiation Effects and Defects in Solids                    |Radiat Eff. Defects Solids                                 |
@@ -1273,6 +1291,7 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Russian Journal of Nondestructive Testing                  |Russ. J. Nondestr. Test.                                   |
 |Russian Journal of Organic Chemistry                       |Russ. J. Org. Chem.                                        |
 |Russian Metallurgy                                         |Russ. Metall.                                              |
+
 ### Starts with S
 
 |South African Journal of Chemistry                         |S. Afr. J. Chem.                                           |
@@ -1332,6 +1351,7 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Synthetic Communications                                   |Synth. Commun.                                             |
 |Synthetic Metals                                           |Synth. Met.                                                |
 |Synthesis and Reactivity in Inorganic and Metal-Organic Chemistry |Synth. React. Inorg. Met.-Org. Chem.                |
+
 ### Starts with T
 
 |Tappi Journal                                              |Tappi J.                                                   |
@@ -1368,15 +1388,18 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Trends in Biochemical Sciences                             |Trends Biochem. Sci.                                       |
 |Trends in Biotechnology                                    |Trends Biotechnol.                                         |
 |Tsvetnaya Metally                                          |Tsvetn. Met.                                               |
+
 ### Starts with U
 
 |Ukrainskii Khimicheskii Zhurnal                            |Ukr. Khim. Zh.                                             |
 |Ukrainskii Fizicheskii Zhurnal                             |Ukr. Fiz. Zh.                                              |
 |Ultrasonics Sonochemistry                                  |Ultrason. Sonochem.                                        |
 |Uspekhi Khimii                                             |Usp. Khim.                                                 |
+
 ### Starts with V
 
 |Vibrational Spectroscopy                                   |Vib. Spectrosc                                             |
+
 ### Starts with W
 
 |Waste Management                                           |Waste Manage.                                              |
@@ -1387,10 +1410,13 @@ For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib
 |Water Science and Technology                               |Water Sci. Technol.                                        |
 |Water, Air, and Soil Pollution                             |Water, Air, Soil Pollut.                                   |
 |World Journal of Microbiology and Biotechnology            |World J. Microbiol. Biotechnol.                            |
+
 ### Starts with X
 
 |X-Ray Spectrometry                                         |X-Ray Spectrom.                                            |
+
 ### Starts with Y
+
 
 ### Starts with Z
 
