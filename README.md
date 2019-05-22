@@ -23,9 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[abbreviation](abbrev.md)
 [Link](url) and ![Image](src)
 ```
+
+[abbreviation](abbrev.md)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
