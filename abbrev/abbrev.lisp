@@ -4,8 +4,7 @@
 
 (with-output-file (stream "README.md")
   (format stream "## Collections of Journal Abbreviations~%~%")
-  (format stream "This page is based on http://www.rci.rutgers.edu/~~longhu/ChemJournalAbbreviation_Hu.htm~%")
-  (format stream "For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib)~%~%")
+  (format stream "For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib).~%~%")
   (format stream "~%### Starts with A~%~%")
   (loop for key being the hash-key of *abbrev-table*
 	if (equalp (first-char key) #\A)

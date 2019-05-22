@@ -1,7 +1,6 @@
 ## Collections of Journal Abbreviations
 
-This page is based on http://www.rci.rutgers.edu/~longhu/ChemJournalAbbreviation_Hu.htm
-For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib)
+For a simple Common Lisp bibtex parser, see [bib](https://github.com/physcrf/bib).
 
 
 ### Starts with A
