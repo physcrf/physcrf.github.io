@@ -3,7 +3,6 @@
 (use :bib)
 
 (with-output-file (stream "README.md")
-  (format stream "# Abbreviations~%~%")
   (format stream "## Collections of Journal Abbreviations~%~%")
   (format stream "This collection is generated with aid of a simple Common Lisp bibtex parser [bib](https://github.com/physcrf/bib).~%~%")
   (format stream "~%### Starts with A~%~%")

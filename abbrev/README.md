@@ -1,5 +1,3 @@
-# Abbreviations
-
 ## Collections of Journal Abbreviations
 
 This collection is generated with aid of a simple Common Lisp bibtex parser [bib](https://github.com/physcrf/bib).
