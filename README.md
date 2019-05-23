@@ -1,4 +1,4 @@
-# Wellcome
+# Welcome
 
 [![lisp badge](https://physcrf.github.io/lisp-logo/lisp-lizard-with-text.svg)](https://physcrf.github.io)
 
