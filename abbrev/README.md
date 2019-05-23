@@ -1162,7 +1162,7 @@ This collection is generated with aid of a simple Common Lisp bibtex parser [bib
 |Physical Review Research                                   |Phys. Rev. Res.                                            |
 |Physical Review Accelerators and Beams                     |Phys. Rev. Accel. Beams                                    |
 |Physical Review Fluids                                     |Phys. Rev. Fluids                                          |
-|Physical Review Materials                                  |Phys. Rev. Materials                                       |
+|Physical Review Materials                                  |Phys. Rev. Mater.                                          |
 |Physical Review Physics Education Research                 |Phys. Rev. Educ. Res.                                      |
 |Physica Scripta                                            |Phys. Scr.                                                 |
 |Physica Status Solidi A                                    |Phys. Status Solidi A                                      |
