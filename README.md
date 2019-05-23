@@ -1,9 +1,13 @@
 # Wellcome
 
-[![lisp badge](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)](physcrf.github.io)
+[![lisp badge](https://upload.wikimedia.org/wikipedia/commons/f/f4/Lisplogo.png)](https://physcrf.github.io)
 
 
 Basically I'm a physicist with interests in Common Lisp Programming. My [github homepage](https://github.com/physcrf).
+
+## Notes
+
+- [abbreviation](https://physcrf.github.io/abbrev/): A collection of journal abbreviations.
 
 ## Projects
 ### Basic Common Lisp Utility
