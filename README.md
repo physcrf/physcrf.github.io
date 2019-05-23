@@ -1,6 +1,6 @@
 # Wellcome
 
-[![lisp badge](https://physcrf.githun.io/lisp-logo/lisp-lizard-with-text.svg)](https://physcrf.github.io)
+[![lisp badge](https://physcrf.github.io/lisp-logo/lisp-lizard-with-text.svg)](https://physcrf.github.io)
 
 
 Basically I'm a physicist with interests in Common Lisp Programming. My [github homepage](https://github.com/physcrf).
