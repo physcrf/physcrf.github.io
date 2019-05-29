@@ -1,6 +1,7 @@
 (use :utility)
 (use :os)
 (use :bib)
+(use :string)
 
 (with-output-file (stream "README.md")
   (format stream "## Collections of Journal Abbreviations~%~%")

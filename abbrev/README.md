@@ -5,7 +5,7 @@ This collection is generated with aid of a simple Common Lisp bibtex parser [bib
 
 ### Starts with A
 
-|ACH - Models in Chemistry                                  |ACH - ModelsA Chem.                                        |
+|ACH - Models in Chemistry                                  |ACH - Models Chem.                                         |
 |ACI Materials Journal                                      |ACI Mater. J.                                              |
 |ACS Symposium Series                                       |ACS Symp. Ser.                                             |
 |Acta Biochimica Polonica                                   |Acta Biochim. Pol.                                         |
