@@ -23,7 +23,7 @@ Basically I'm a physicist with interests in Common Lisp Programming. Here is my 
 
 ### Common Lisp Generalized Utility
 
-- [gref](https://github.com/physcrf/gref): Generic accessor and some miscellaneous utility.
+- [grefs](https://github.com/physcrf/grefs): Generic accessor and some miscellaneous utility.
 
 
 ### Numerical Common Lisp
