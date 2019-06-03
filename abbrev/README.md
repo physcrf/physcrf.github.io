@@ -91,6 +91,7 @@ This collection is generated with aid of a simple Common Lisp bibtex parser [bib
 |Annals of Clinical Biochemistry                            |Ann. Clin. Biochem.                                        |
 |Annals of Physics                                          |Ann. Phys.                                                 |
 |Annals of the New York Academy of Sciences                 |Ann. N.Y. Acad. Sci.                                       |
+|Annalen der Physik                                         |Ann. Phys. (Leipzig)                                       |
 |Annual Review of Condensed Matter Physics                  |Ann. Rev. Condens. Matter Phys.                            |
 |Annual Reports in Medicinal Chemistry                      |Annu. Rep. Med. Chem.                                      |
 |Annual Reports on the Progress of Chemistry, Section A     |Annu. Rep. Prog. Chem. Sect. A                             |
@@ -109,7 +110,6 @@ This collection is generated with aid of a simple Common Lisp bibtex parser [bib
 |Antisense and Nucleic Acid Drug Development                |Antisense Nucleic Acid Drug Dev.                           |
 |Antiviral Chemistry and Chemotherapy                       |Antiviral Chem. Chemother.                                 |
 |Antiviral Research                                         |Antiviral Res.                                             |
-|Annalen der Physik                                         |Ann. Phys.                                                 |
 |Appita Journal                                             |Appita J.                                                  |
 |Applied Biochemistry and Biotechnology                     |Appl. Biochem. Biotechnol.                                 |
 |Applied Catalysis A                                        |Appl. Catal., A                                            |
