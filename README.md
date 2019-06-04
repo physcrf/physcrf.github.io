@@ -29,7 +29,7 @@ Basically I'm a physicist with interests in Common Lisp Programming. Here is my 
 ### Numerical Common Lisp
 
 - [complex](https://github.com/physcrf/complex): Foreign complex number type for [CFFI](https://common-lisp.net/project/cffi/).
-
+- [clsl](https://github.com/physcrf/complex): Common Lisp Scientific Library, under construction, still early stage.
 ### Physics
 
 - [vaspkit](https://github.com/physcrf/vaspkit): A parser for [Vienna Ab initio Simulation Package](https://www.vasp.at/) result file `vasprun.xml`.
